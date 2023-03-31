@@ -1,128 +1,129 @@
 {
   <html>
   <body>
-    <div id="mainTitle">
-      <h1>WILLIAM ARRATA</h1>
-      <img src="">
-    </div>
-    <hr>
-    <section id="about">
-      <h3>
-      <h4>Welcome to my website! I am an Asset Liability Manager in the Financial Directorate of Banque de France. Previously, I held positions such as Fixed Income portfolio manager in their Reserves Management Division, implementation of the Public Sector Purchase Program (PSPP) of the ECB, and policy economist. I teach Quantitative Portfolio Management in the Master in Finance of ESSEC Business School in Paris. I have also coauthored academic research on the quantitative assessment of unconventional monetary policies in the euro area. I hold a Master Degree in Actuarial Science from ISUP (Sorbonne Université), an MRes in financial economics from Université Paris I Panthéon Sorbonne and a Master in Science from HEC Paris. I am a CFA Charterholder and an associate Actuary.
-        Papers and presentations on this website reflect my sole opinions and those of my coauthors, and do not express the views of my institution</p>
-      <div id="contact">
-        <a href="" target="_blank">https://www.banque-france.fr/</a>
-        <br>
-        <a href="" target="_blank">https://twitter.com/wiarrata?lang=fr</a>
-        <br>
-        <a href="" target="_blank">in/william-arrata-cfa-4a0a08</a>
-        <br>
+    <body>
+      <div id="mainTitle">
+        <h1>WILLIAM ARRATA</h1>
+        <img src="">
       </div>
-    </section>
-    <hr>
-    <section id="Experience">
-      <h3>PROFESSIONAL EXPERIENCES</h3>
-      <div class="job">
-        <h4>
-            <li>Since 2019  Banque de France, Financial Directorate, Asset Liability Manager </li>
-            <h4>
- 
-            <li>2013-2019 Banque de France, Markets Directorate, Fixed Income Portfolio Manager</li>
-            <h4>
-            <li>2008 - 2013 Banque de France, Financial Stability Directorate, Policy Economist</li>
-                <hr>
-        </section>
-        <section id="Experience">
-          <h3>TEACHING</h3>
-          <div class="job">
-            <h4>
-                <li>2014-today ESSEC Business School, Master in Finance, Quantitative Portfolio Management (FINM 32225) </li>
-                <h4><a href="" target="_blank">Master in Finance (MIF) - Masters and MSc's - ESSEC Business School</a> <span></span></h4>
-                <table>
-                    <tr>
-                      <td>TOPIC</td>
-                      <td>SLIDES</td>
-                      <td>CODE</td>
-                      <td>DATA</td>
-                      <td>EXERCISES</td>
-                    </tr>
-                    <tr>
-                      <td>Portfolio: risk, return and diversification</td>
-                      <td><a href="" target="_blank">[risk_diversification.pdf](https://github.com/WilliamArrata/WilliamArrata/files/11037377/risk_diversification.pdf)</a></td>
-                      <td>to come</td>
-                      <td>to come</td>
-                      <td>to come</td>
-                    </tr>
-                    <tr>
-                      <td>Portfolio construction: the mean variance framework</td>
-                      <td><a href="" target="_blank">link</a></td>
-                      <td>to come</td>
-                      <td>to come</td>
-                      <td>to come</td>
-                    </tr>
-                    <tr>
-                      <td>The Capital Asset Pricing Model</td>
-                      <td><a href="" target="_blank">link</a></td>
-                      <td>to come</td>
-                      <td>to come</td>
-                      <td>to come</td>
-                    </tr>
-                    <tr>
-                      <td>Implementation of the Markowitz framework:
-                        resampling, shrinkage, and the Black Litterman Model</td>
-                      <td><a href="" target="_blank">link</a></td>
-                      <td>to come</td>
-                      <td>to come</td>
-                      <td>to come</td>
-                    </tr>
-                    <tr>
-                        <td>Index linked portfolio management</td>
-                        <td><a href="" target="_blank">link</a></td>
-                        <td>to come</td>
-                        <td>to come</td>
-                        <td>to come</td>
-                      </tr>
-                      <tr>
-                        <td>Portfolio insurance techniques</td>
-                        <td><a href="" target="_blank">link</a></td>
-                        <td>to come</td>
-                        <td>to come</td>
-                        <td>to come</td>
-                      </tr>
-                      <tr>
-                        <td>Exchange-Traded Funds part 1</td>
-                        <td><a href="" target="_blank">link</a></td>
-                        <td>to come</td>
-                        <td>to come</td>
-                        <td>to come</td>
-                      </tr>
-                      <tr>
-                        <td>Exchange-Traded Funds part 2</td>
-                        <td><a href="" target="_blank">link</a></td>
-                        <td>to come</td>
-                        <td>to come</td>
-                        <td>to come</td>
-                      </tr>
-               
-                  </table>
-          </ul>
+      <hr>
+      <section id="about">
+        <h3>
+        <h4>Welcome to my website! I am an Asset Liability Manager in the Financial Directorate of Banque de France. Previously, I held positions such as Fixed Income portfolio manager in their Reserves Management Division, implementation of the Public Sector Purchase Program (PSPP) of the ECB, and policy economist. I teach Quantitative Portfolio Management in the Master in Finance of ESSEC Business School in Paris. I have also coauthored academic research on the quantitative assessment of unconventional monetary policies in the euro area. I hold a Master Degree in Actuarial Science from ISUP (Sorbonne Université), an MRes in financial economics from Université Paris I Panthéon Sorbonne and a Master in Science from HEC Paris. I am a CFA Charterholder and an associate Actuary.
+          Papers and presentations on this website reflect my sole opinions and those of my coauthors, and do not express the views of my institution</p>
+        <div id="contact">
+          <a href="" target="_blank">https://www.banque-france.fr/</a>
+          <br>
+          <a href="" target="_blank">https://twitter.com/wiarrata?lang=fr</a>
+          <br>
+          <a href="" target="_blank">in/william-arrata-cfa-4a0a08</a>
+          <br>
         </div>
       </section>
       <hr>
-    <section id="education">
-      <h3>PUBLICATIONS</h3>
-      <div class="school">
-        <ul>
+      <section id="Experience">
+        <h3>PROFESSIONAL EXPERIENCES</h3>
+        <div class="job">
+          <h4>
+              <li>Since 2019  Banque de France, Financial Directorate, Asset Liability Manager </li>
+              <h4>
+   
+              <li>2013-2019 Banque de France, Markets Directorate, Fixed Income Portfolio Manager</li>
+              <h4>
+              <li>2008 - 2013 Banque de France, Financial Stability Directorate, Policy Economist</li>
+                  <hr>
+          </section>
+          <section id="Experience">
+            <h3>TEACHING</h3>
             <div class="job">
-                <h4>
-                    <li>William Arrata, Benoit Nguyen, Imène Rahmouni-Rousseau, Miklos Vari (2020), The scarcity effect of QE on repo rates: Evidence from the euro area, Journal of Financial Economics, Volume 137, Issue 3, Sept 2020 </li>
-                    <br>
-                    https://www.sciencedirect.com/science/article/abs/pii/S0304405X20301240?via%3Dihub
-                    <h4>
-                    <li>William Arrata, Benoit Nguyen (2017), Price Impact of bond supply shocks: Evidence from the Eurosystem’s asset purchase program, Banque de France Working Paper # 623</li>
-                    <br>https://blocnotesdeleco.banque-france.fr/sites/default/files/medias/documents/document-de-travail-623_2017-03.pdf
-
-          <br>
+              <h4>
+                  <li>2014-today ESSEC Business School, Master in Finance, Quantitative Portfolio Management (FINM 32225) </li>
+                  <h4><a href="" target="_blank">Master in Finance (MIF) - Masters and MSc's - ESSEC Business School</a> <span></span></h4>
+                  <table>
+                      <tr>
+                        <td>TOPIC</td>
+                        <td>SLIDES</td>
+                        <td>CODE</td>
+                        <td>DATA</td>
+                        <td>EXERCISES</td>
+                      </tr>
+                      <tr>
+                        <td>Portfolio: risk, return and diversification</td>
+                        <td><a href="" target="_blank">[risk_diversification.pdf](https://github.com/WilliamArrata/WilliamArrata/files/11037377/risk_diversification.pdf)</a></td>
+                        <td>to come</td>
+                        <td>to come</td>
+                        <td>to come</td>
+                      </tr>
+                      <tr>
+                        <td>Portfolio construction: the mean variance framework</td>
+                        <td><a href="" target="_blank">link</a></td>
+                        <td>to come</td>
+                        <td>to come</td>
+                        <td>to come</td>
+                      </tr>
+                      <tr>
+                        <td>The Capital Asset Pricing Model</td>
+                        <td><a href="" target="_blank">link</a></td>
+                        <td>to come</td>
+                        <td>to come</td>
+                        <td>to come</td>
+                      </tr>
+                      <tr>
+                        <td>Implementation of the Markowitz framework:
+                          resampling, shrinkage, and the Black Litterman Model</td>
+                        <td><a href="" target="_blank">link</a></td>
+                        <td>to come</td>
+                        <td>to come</td>
+                        <td>to come</td>
+                      </tr>
+                      <tr>
+                          <td>Index linked portfolio management</td>
+                          <td><a href="" target="_blank">link</a></td>
+                          <td>to come</td>
+                          <td>to come</td>
+                          <td>to come</td>
+                        </tr>
+                        <tr>
+                          <td>Portfolio insurance techniques</td>
+                          <td><a href="" target="_blank">link</a></td>
+                          <td>to come</td>
+                          <td>to come</td>
+                          <td>to come</td>
+                        </tr>
+                        <tr>
+                          <td>Exchange-Traded Funds part 1</td>
+                          <td><a href="" target="_blank">link</a></td>
+                          <td>to come</td>
+                          <td>to come</td>
+                          <td>to come</td>
+                        </tr>
+                        <tr>
+                          <td>Exchange-Traded Funds part 2</td>
+                          <td><a href="" target="_blank">link</a></td>
+                          <td>to come</td>
+                          <td>to come</td>
+                          <td>to come</td>
+                        </tr>
+                 
+                    </table>
+            </ul>
+          </div>
+        </section>
+        <hr>
+      <section id="education">
+        <h3>PUBLICATIONS</h3>
+        <div class="school">
+          <ul>
+              <div class="job">
+                  <h4>
+                      <li>William Arrata, Benoit Nguyen, Imène Rahmouni-Rousseau, Miklos Vari (2020), The scarcity effect of QE on repo rates: Evidence from the euro area, Journal of Financial Economics, Volume 137, Issue 3, Sept 2020 </li>
+                      <br>
+                      <a href="" target="_blank">https://www.sciencedirect.com/science/article/abs/pii/S0304405X20301240?via%3Dihub</a>
+                      <h4>
+                      <li>William Arrata, Benoit Nguyen (2017), Price Impact of bond supply shocks: Evidence from the Eurosystem’s asset purchase program, Banque de France Working Paper # 623</li>
+                      <br><a href="" target="_blank">https://blocnotesdeleco.banque-france.fr/sites/default/files/medias/documents/document-de-travail-623_2017-03.pdf</a>
+  
+            <br>
   "scripts": [],
   "styles": []
 }
