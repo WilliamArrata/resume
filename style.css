@@ -1,124 +1,189 @@
 <html>
   <body>
+    <p style = "font-family:Georgia"></p>
     <div id="mainTitle">
-      <h1>WILLIAM ARRATA</h1>
-      <img src="">
-    </div>
-    <hr>
-    <section id="about">
-      <h3>
-      <h4>Welcome to my website! I am an Asset Liability Manager in the Financial Directorate of Banque de France. Previously, I held positions such as Fixed Income portfolio manager in their Reserves Management Division, implementation of the Public Sector Purchase Program (PSPP) of the ECB, and policy economist. I teach Quantitative Portfolio Management in the Master in Finance of ESSEC Business School in Paris. I have also coauthored academic research on the quantitative assessment of unconventional monetary policies in the euro area. I hold a Master Degree in Actuarial Science from ISUP (Sorbonne Université), an MRes in financial economics from Université Paris I Panthéon Sorbonne and a Master in Science from HEC Paris. I am a CFA Charterholder and an associate Actuary.
-        Papers and presentations on this website reflect my sole opinions and those of my coauthors, and do not express the views of my institution</p>
-      <div id="contact">
-        <a href="" target="_blank">https://www.banque-france.fr/</a>
+      <br>
+      <table>
+        <tr>
+          <td colspan="650"> &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; </td>
+          <td>
+          <td style="vertical-align: top"><h1 style="color: #36454f;font-family:Georgia;text-align: center;">WILLIAM ARRATA</h1>
+            <img src="https://media.licdn.com/dms/image/D4E03AQFFezB0WC-2Mw/profile-displayphoto-shrink_200_200/0/1664795443904?e=1685577600&v=beta&t=9KoO4qxd-FfcTI76J2KsFKMlLkDnAfaKNNOaC4j--bs" class="center"></td>
+          <td> 
+            <h4>Welcome to my website! I am an Asset Liability Manager in the Financial Directorate of Banque de France. Previously, I held positions such as Fixed Income portfolio manager in their Reserves Management Division, implementation of the Public Sector Purchase Program (PSPP) of the ECB, and policy economist. I teach Quantitative Portfolio Management in the Master in Finance of ESSEC Business School in Paris. I have also coauthored academic research on the quantitative assessment of unconventional monetary policies in the euro area. I hold a Master Degree in Actuarial Science from ISUP (Sorbonne Université), an MRes in financial economics from Université Paris I Panthéon Sorbonne and a Master in Science from HEC Paris. I am also a CFA Charterholder and an associate Actuary.
+            <br>
+            <br>
+            <i><span style="font-weight:normal">Papers and presentations on this website reflect my sole opinions and those of my coauthors, and do not express the views of my institution</span></i></p>
+            <a href="https://www.banque-france.fr/"> Banque de France</a>
+            <br>
+            <a href="in/william-arrata-cfa-4a0a08; style=#36454f"> LinkedIn </a>
+            <br>
+            <a href="https://twitter.com/wiarrata?lang=fr"> Twitter </a>
+            <br>
+          </div>
+        </section>
         <br>
-        <a href="" target="_blank">https://twitter.com/wiarrata?lang=fr</a>
-        <br>
-        <a href="" target="_blank">in/william-arrata-cfa-4a0a08</a>
-        <br>
-      </div>
-    </section>
-    <hr>
-    <section id="Experience">
-      <h2>PROFESSIONAL EXPERIENCES</h2>
-      <div class="job">
-        <h4>
-            <li>Since 2019  Banque de France, Financial Directorate, Asset Liability Manager </li>
-            <h4>
- 
-            <li>2013-2019 Banque de France, Markets Directorate, Fixed Income Portfolio Manager</li>
-            <h4>
-            <li>2008 - 2013 Banque de France, Financial Stability Directorate, Policy Economist</li>
-                <hr>
+                <hr style="height:2px; background-color:#36454f; margin: -3px;border-bottom: 0px;">
+            </section>
+            <section id="Experience">
+              <h2 style="color: #36454f">TEACHING</h2>
+              <div class="job">
+                <h4>
+                    <li>2014 - today &nbsp;&nbsp; &nbsp;ESSEC Business School - Master in Finance (MiF) &nbsp;&nbsp; &nbsp;   <a href="https://www.essec.edu/en/program/mscs/master-finance/"> ESSEC Master in Finance </a></li>
+                    <br> <span style="font-weight:normal"> Quantitative Portfolio Management course (FINM 32225) </span>
+                    <br>
+                    <br>
+                    <table>
+                        <tr>
+                          <td><b>TOPIC</b></td>
+                          <td colspan="3"> &nbsp;</td>
+                          <td><b>SLIDES</b></td>
+                          <td colspan="3"> &nbsp;</td>
+                          <td><b>R CODE</b></td>
+                          <td colspan="3"> &nbsp;</td>
+                          <td><b>DATA</b></td>
+                          <td colspan="3"> &nbsp;</td>
+                          <td><b>EXERCISES</b></td>
+                        </tr>
+                        <tr>
+                          <td>Portfolio: risk, return and diversification</td>
+                          <td colspan="3"> &nbsp;</td>
+                          <td><a href="https://github.com/WilliamArrata/WilliamArrata/files/11037377/risk_diversification.pdf" > Risk & diversification</a></td>
+                          <td colspan="3"> &nbsp;</td>
+                          <td style="text-align: center;"> to come</td>
+                          <td colspan="3"> &nbsp;</td>
+                          <td>to come</td>
+                          <td colspan="3"> &nbsp;</td>
+                          <td style="text-align: center;"> to come</td>
+                        </tr>
+                        <tr>
+                          <td>Portfolio construction: the mean variance framework</td>
+                          <td colspan="3"> &nbsp;</td>
+                          <td><a href="https://github.com/WilliamArrata/WilliamArrata/files/11037380/mean_variance.pdf"> The mean variance framework </a></td>
+                          <td colspan="3"> &nbsp;</td>
+                          <td style="text-align: center;"> to come</td>
+                          <td colspan="3"> &nbsp;</td>
+                          <td style="text-align: center;"> to come</td>
+                          <td colspan="3"> &nbsp;</td>
+                          <td style="text-align: center;"> to come</td>
+                        </tr>
+                        <tr>
+                          <td>The Capital Asset Pricing Model</td>
+                          <td colspan="3"> &nbsp;</td>
+                          <td><a href="https://github.com/WilliamArrata/WilliamArrata/files/11037383/CAPM.pdf" > The Capital Asset Pricing Model </a></td>
+                          <td colspan="3"> &nbsp;</td>
+                          <td style="text-align: center;"> to come</td>
+                          <td colspan="3"> &nbsp;</td>
+                          <td>to come</td>
+                          <td colspan="3"> &nbsp;</td>
+                          <td style="text-align: center;"> to come</td>
+                        </tr>
+                        <tr>
+                          <td>Implementation of the Markowitz framework: 
+                            <br>resampling, shrinkage, and the Black Litterman Model</td>
+                            <td colspan="3"> &nbsp;</td>
+                            <td><a href="https://github.com/WilliamArrata/WilliamArrata/files/11037385/Black_Litterman.pdf"> Resampling, shrinkage and <br> the Black Litterman model </a></td>
+                            <td colspan="3"> &nbsp;</td>
+                            <td style="text-align: center;"> to come</td>
+                            <td colspan="3"> &nbsp;</td>
+                          <td>to come</td>
+                          <td colspan="3"> &nbsp;</td>
+                          <td style="text-align: center;"> to come</td>
+                        </tr>
+                        <tr>
+                            <td>Index linked portfolio management</td>
+                            <td colspan="3"> &nbsp;</td>
+                            <td><a href="https://github.com/WilliamArrata/WilliamArrata/files/11114007/Index-linked_management.pdf"> Index linked management </a></td>
+                            <td colspan="3"> &nbsp;</td>
+                            <td style="text-align: center;"> to come</td>
+                            <td colspan="3"> &nbsp;</td>
+                            <td>to come</td>
+                            <td colspan="3"> &nbsp;</td>
+                            <td style="text-align: center;"> to come</td>
+                          </tr>
+                          <tr>
+                            <td>Portfolio insurance techniques</td>
+                            <td colspan="3"> &nbsp;</td>
+                            <td><a href="https://github.com/WilliamArrata/WilliamArrata/files/11037386/CPPI.pdf"> Constant Proportion Portfolio <br> Insurance</a></td>
+                            <td colspan="3"> &nbsp;</td>
+                            <td style="text-align: center;"> to come</td>
+                            <td colspan="3"> &nbsp;</td>
+                            <td>to come</td>
+                            <td colspan="3"> &nbsp;</td>
+                            <td style="text-align: center;"> to come</td>
+                          </tr>
+                          <tr>
+                            <td>Exchange-Traded Funds part 1</td>
+                            <td colspan="3"> &nbsp;</td>
+                            <td><a href="https://github.com/WilliamArrata/williamarrata/files/11021109/ETF_structuration.pdf" target="_blank"> ETF replication techniques</a></td>
+                            <td colspan="3"> &nbsp;</td>
+                            <td style="text-align: center;"> to come</td>
+                            <td colspan="3"> &nbsp;</td>
+                            <td>to come</td>
+                            <td colspan="3"> &nbsp;</td>
+                            <td style="text-align: center;"> to come</td>
+                          </tr>
+                          <tr>
+                            <td>Exchange-Traded Funds part 2</td>
+                            <td colspan="3"> &nbsp;</td>
+                            <td> to come </a></td>
+                            <td colspan="3"> &nbsp;</td>
+                            <td style="text-align: center;"> to come</td>
+                            <td colspan="3"> &nbsp;</td>
+                            <td>to come</td>
+                            <td colspan="3"> &nbsp;</td>
+                            <td style="text-align: center;"> to come</td>
+                          </tr>
+                      </table>
+              </ul>
+            </div>
+          </section>
+          <hr style="height:2px; background-color:#36454f; margin: 0px;border-bottom: 0px">
+        </section>
+        <section id="education">
+          <h2 style="color:  #36454f"> ACADEMIC PUBLICATIONS</h2>
+          <div class="school">
+              <li><span style="font-weight:normal">William Arrata, Benoit Nguyen, Imène Rahmouni-Rousseau, Miklos Vari (2020)</span>, <b>The scarcity effect of QE on repo rates: Evidence from the euro area, Journal of Financial Economics, Volume 137, Issue 3, Sept 2020 </b> &nbsp;&nbsp; <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304405X20301240?via%3Dihub">   link </a> </li>
+              <br>
+              <li><span style="font-weight:normal">William Arrata, Benoit Nguyen (2017)</span>, <b>Price Impact of bond supply shocks: Evidence from the Eurosystem’s asset purchase program, Banque de France Working Paper # 623 </b> &nbsp;&nbsp; <a href="https://blocnotesdeleco.banque-france.fr/sites/default/files/medias/documents/document-de-travail-623_2017-03.pdf"> link </a> </li>
+              </ul>
+            </div>
+          </section>
+          <br>
+          <hr style="height:2px; background-color:#36454f; margin: 0px;border-bottom: 0px">
+        </section>
+        <section id="education">
+          <h2 style="color:  #36454f"> NON ACADEMIC PUBLICATIONS</h2>
+          <div class="school">
+            <span style="font-weight:normal"> to come </span>
+              </ul>
+            </div>
+          </section>
+          <br>
+          <hr style="height:2px; background-color:#36454f; margin: 0px;border-bottom: 0px">
+        </section>
+        <section id="education">
+          <h2 style="color:  #36454f"> OTHER TOPICS IN QUANTITATIVE FINANCE</h2>
+          <div class="school">
+            <span style="font-weight:normal"> to come </span>
+              </ul>
+            </div>
+          </section>        
+          <br>
+          <hr style="height:2px; background-color:#36454f;margin: 0px;border-bottom: 0px;">
         </section>
         <section id="Experience">
-          <h2>TEACHING</h2>
+          <h2 style="color: #36454f">PROFESSIONAL EXPERIENCES</h2>
           <div class="job">
-            <h4>
-                <li>2014-today ESSEC Business School, Master in Finance, Quantitative Portfolio Management (FINM 32225) </li>
-                <h4><a href="" target="_blank">Master in Finance (MIF) - Masters and MSc's - ESSEC Business School</a> <span></span></h4>
-                <table>
-                    <tr>
-                      <td><h4>TOPIC<h4></td>
-                      <td><h4>SLIDES<h4></td>
-                      <td><h4>CODE<h4></td>
-                      <td><h4>DATA<h4></td>
-                      <td><h4>EXERCISES<h4></td>
-                    </tr>
-                    <tr>
-                      <td>Portfolio: risk, return and diversification</td>
-                      <td><a href="" target="_blank">[risk_diversification.pdf](https://github.com/WilliamArrata/WilliamArrata/files/11037377/risk_diversification.pdf)</a></td>
-                      <td>to come</td>
-                      <td>to come</td>
-                      <td>to come</td>
-                    </tr>
-                    <tr>
-                      <td>Portfolio construction: the mean variance framework</td>
-                      <td><a href="" target="_blank">link</a></td>
-                      <td>to come</td>
-                      <td>to come</td>
-                      <td>to come</td>
-                    </tr>
-                    <tr>
-                      <td>The Capital Asset Pricing Model</td>
-                      <td><a href="" target="_blank">link</a></td>
-                      <td>to come</td>
-                      <td>to come</td>
-                      <td>to come</td>
-                    </tr>
-                    <tr>
-                      <td>Implementation of the Markowitz framework:
-                        resampling, shrinkage, and the Black Litterman Model</td>
-                      <td><a href="" target="_blank">link</a></td>
-                      <td>to come</td>
-                      <td>to come</td>
-                      <td>to come</td>
-                    </tr>
-                    <tr>
-                        <td>Index linked portfolio management</td>
-                        <td><a href="" target="_blank">link</a></td>
-                        <td>to come</td>
-                        <td>to come</td>
-                        <td>to come</td>
-                      </tr>
-                      <tr>
-                        <td>Portfolio insurance techniques</td>
-                        <td><a href="" target="_blank">link</a></td>
-                        <td>to come</td>
-                        <td>to come</td>
-                        <td>to come</td>
-                      </tr>
-                      <tr>
-                        <td>Exchange-Traded Funds part 1</td>
-                        <td><a href="" target="_blank">link</a></td>
-                        <td>to come</td>
-                        <td>to come</td>
-                        <td>to come</td>
-                      </tr>
-                      <tr>
-                        <td>Exchange-Traded Funds part 2</td>
-                        <td><a href="" target="_blank">link</a></td>
-                        <td>to come</td>
-                        <td>to come</td>
-                        <td>to come</td>
-                      </tr>
-               
-                  </table>
-          </ul>
-        </div>
-      </section>
-      <hr>
-    <section id="education">
-      <h2>PUBLICATIONS</h2>
-      <div class="school">
-        <ul>
-            <div class="job">
-                <h4>
-                    <li>William Arrata, Benoit Nguyen, Imène Rahmouni-Rousseau, Miklos Vari (2020), The scarcity effect of QE on repo rates: Evidence from the euro area, Journal of Financial Economics, Volume 137, Issue 3, Sept 2020 </li>
-                    <br>
-                    <a href="" target="_blank">https://www.sciencedirect.com/science/article/abs/pii/S0304405X20301240?via%3Dihub</a>
-                    <h4>
-                    <li>William Arrata, Benoit Nguyen (2017), Price Impact of bond supply shocks: Evidence from the Eurosystem’s asset purchase program, Banque de France Working Paper # 623</li>
-                    <br><a href="" target="_blank">https://blocnotesdeleco.banque-france.fr/sites/default/files/medias/documents/document-de-travail-623_2017-03.pdf</a>
-
-          <br>
+              <h4>
+              <li>Since 2019 &nbsp;&nbsp; &nbsp; &nbsp; <span style="font-weight:normal">Banque de France, Financial Directorate, Asset Liability Manager</span> </li>
+              <h4>
+              <li>2013 - 2019 &nbsp; &nbsp; &nbsp; <span style="font-weight:normal">Banque de France, Markets Directorate, Fixed Income Portfolio Manager</span></li>
+              <h4>
+              <li>2008 - 2013 &nbsp; &nbsp;&nbsp; <span style="font-weight:normal">Banque de France, Financial Stability Directorate, Policy Economist</span></li>
+              <h4>
+              <li>2007 - 2008 &nbsp; &nbsp;&nbsp; <span style="font-weight:normal">Société générale, Equity Derivatives Structuring</span></li>
+    </td>
+    <td colspan="950"> &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; </td>
+        </tr> 
+      </table>
